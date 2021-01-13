@@ -37,9 +37,9 @@ gem 'social-share-button'
 
 gem 'simple_form'
 
-gem 'omniauth'
+gem 'omniauth', '>= 2.0.0'
 
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '>= 3.0.0'
 
 gem 'disqus_rails'
 
