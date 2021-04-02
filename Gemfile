@@ -33,7 +33,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 gem "paperclip", "~> 4.3"
 
-gem 'social-share-button'
+gem 'social-share-button', '>= 0.1.10'
 
 gem 'simple_form'
 
