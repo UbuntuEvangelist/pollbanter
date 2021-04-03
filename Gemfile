@@ -31,7 +31,7 @@ gem "chartkick"
 
 gem 'bootstrap-sass', '~> 3.3.6'
 
-gem "paperclip", "~> 4.3"
+gem "paperclip", "~> 5.2", ">= 5.2.1"
 
 gem 'social-share-button'
 
